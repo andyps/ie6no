@@ -20,3 +20,5 @@ If you use the first simple example, you don't have to call run method,
 it will be called automatically after page load.
 
 [http://code.google.com/p/ie6no/wiki/Parameters See available parameters for advanced usage]
+
+Also check [http://ie6no.org/ie6warnjs.ie6no IE6NO site]
