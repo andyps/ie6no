@@ -4,8 +4,7 @@
 
 = Parameters list =
 
-* target 
-id of target DOM node or DOM node; warning popup will be prepended to this node; by default warning div will be prepend to document body
+* target id of target DOM node or DOM node; warning popup will be prepended to this node; by default warning div will be prepend to document body
 * runonload (true or false)
 it can be used, if you want to show popup after page load
 * isOverlay (true or false)
