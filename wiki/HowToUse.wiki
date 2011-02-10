@@ -3,10 +3,10 @@
 
 
 = How to use =
-
+{{{
 <script type="text/javascript" src="http://ie6no.org/js/ie6no/ie6no.js" charset="utf-8"></script>
 <script type="text/javascript">ie6no({runonload:true});</script>
-
+}}}
 Warning div will be prepend to document body after page load (because _runonload_ is true).
 
 After creating ie6no object you can hide and show warning popup:
