@@ -1,4 +1,5 @@
 #summary List of currently available parameters
+#labels Featured,Phase-Deploy,Phase-Implementation
 
 
 = Parameters list =
@@ -10,7 +11,7 @@
 * isOverlay (true or false)
 use or not overlay background
 * overlayBgColor
- color of overlay background, i.e. #eeeeee
+ color of overlay background, e.g. #eeeeee
 * overlayOpacity
  yes, this is overlay opacity from 0 (completely transparent background) to 100 (completely opaque background)
 * isCloseBtn (true or false)
@@ -24,8 +25,7 @@ use or not overlay background
  basic value of z-index - this value will be used for overlay layer, 
         for warning div this value + 1 will be used;
         zIndex can be used if warning shows above some elements on your page, 
-        but you don't want that, so you need increase this value</dd>
+        but you don't want that, so you need increase this value
 * tpl
  if you want to set tpl var - set it carefully - this is 
      a html template for warning
-</dl>
