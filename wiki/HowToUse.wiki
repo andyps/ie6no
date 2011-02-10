@@ -19,4 +19,4 @@ warn.show(); //show warning again
 If you use the first simple example, you don't have to call run method,
 it will be called automatically after page load.
 
-[http://code.google.com/p/ie6no/wiki/Parameters parameters]See available parameters for advanced usage
+[http://code.google.com/p/ie6no/wiki/Parameters See available parameters for advanced usage]
