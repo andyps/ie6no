@@ -16,7 +16,7 @@ warn.run(); //create and show popup
 warn.hide(); //hide warning
 warn.show(); //show warning again
 }}}
-If you use the first simple example, you don't have to call run method,
+If you use _runonload_, you don't have to call run method,
 it will be called automatically after page load.
 
 [http://code.google.com/p/ie6no/wiki/Parameters See available parameters for advanced usage]
