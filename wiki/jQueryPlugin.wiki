@@ -3,8 +3,8 @@
 
 = How to use jQuery plugin =
 
-The usage of ie6no jQuery plugin is the same is of Standalone version.
-Note, that IE6NO jQuery plugin supports only the version 6 of Internet Explorer.
+The usage of ie6no jQuery plugin is the same as of Standalone version.
+Note, that ie6no jQuery plugin doesn't support IE version less than 6.
 
 = Details =
 
