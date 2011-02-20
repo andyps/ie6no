@@ -1,0 +1,15 @@
+#summary jQuery plugin version
+#labels Featured,Phase-Deploy
+
+= How to use jQuery plugin =
+
+The usage of ie6no jQuery plugin is the same is of Standalone version.
+Note, that IE6NO jQuery plugin supports only the version 6 of Internet Explorer.
+
+= Details =
+
+So, the difference is only that instead of ie6no you should use $.ie6no.
+For example:
+{{{
+<script type="text/javascript">$.ie6no({runonload:true});</script>
+}}}
